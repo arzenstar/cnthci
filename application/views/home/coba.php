@@ -1,0 +1,1 @@
+<?php echo "cookie :".get_cookie('status');?>
